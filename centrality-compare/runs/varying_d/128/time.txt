@@ -1,0 +1,10 @@
+Start: 00:09:04
+D: 00:09:04
+BCDE: 02:24:21
+End: 02:44:45
+
+real	155m40,966s
+user	153m9,180s
+sys	6m39,694s
+
+Out of Memory Error. Second run:

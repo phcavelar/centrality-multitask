@@ -1,0 +1,6 @@
+Start: 19:19:27
+D: 19:19:27
+BCDE: 21:20:31
+End: 23:42:31
+15675.31user 503.95system 4:23:04elapsed 102%CPU (0avgtext+0avgdata 6099820maxresident)k
+0inputs+345504outputs (0major+401899554minor)pagefaults 0swaps
